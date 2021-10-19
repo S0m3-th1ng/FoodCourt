@@ -1,0 +1,30 @@
+[
+  {
+    "id" :1,
+    "username":"Someting",
+    "password":"Akash",
+    "email":"jesusjohny66@gmail.com",
+    "dob":"03/11/2000"
+  },
+  {
+    "id" :2,
+    "username":"Panda",
+    "password":"Vajrala",
+    "email":"venkyvajrala@gmail.com",
+    "dob":"23/01/2001"
+  },
+  {
+    "id" :3,
+    "username":"XorDevil",
+    "password":"Universal",
+    "email":"bensambangi@gmail.com",
+    "dob":"24/01/1999"
+  },
+  {
+    "id" :4,
+    "username":"XorWolf",
+    "password":"Gogula@123",
+    "email":"goguladavid@gmail.com",
+    "dob":"13/12/2001"
+  },
+]

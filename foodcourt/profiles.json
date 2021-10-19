@@ -1,0 +1,34 @@
+[
+  {
+    "id" :1,
+    "first_name":"Johny",
+    "second_name":"Vasamsetti",
+    "phone_number":"8097509066",
+    "email":"jesusjohny66@gmail.com",
+    "dob":"03/11/2000"
+  },
+  {
+    "id" :2,
+    "first_name":"Venky",
+    "second_name":"Vajrala",
+    "phone_number":"9593958393",
+    "email":"venkyvajrala@gmail.com",
+    "dob":"23/01/2001"
+  },
+  {
+    "id" :3,
+    "first_name":"Ben",
+    "second_name":"Sambangi",
+    "phone_number":"9299389928",
+    "email":"bensambangi@gmail.com",
+    "dob":"24/01/1999"
+  },
+  {
+    "id" :4,
+    "first_name":"David",
+    "second_name":"Gogula",
+    "phone_number":"8989238298",
+    "email":"goguladavid@gmail.com",
+    "dob":"13/12/2001"
+  },
+]
